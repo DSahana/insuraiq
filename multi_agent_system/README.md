@@ -4,14 +4,15 @@ ADK based multi agent system containing Orchestrator agent, Information Collecto
 
 ## Prerequisites
 
-*   Python 3.13 or higher
-*   Install the needed packages from insuraiq/requirements.txt
-*   Access to a LLM and an API Key
-*   Running A2A and MCP server url
+- Python 3.13 or higher
+- Install the needed packages from insuraiq/requirements.txt
+- Access to a LLM and an API Key
+- Running A2A and MCP server url
 
 ## Running the Sample
 
 1.  Navigate to the directory containing the files:
+
     ```bash
     cd path/to/your/multi_agent_system
     ```
@@ -28,6 +29,7 @@ ADK based multi agent system containing Orchestrator agent, Information Collecto
 ## Deploy
 
 Use the following command to deploy to agent engine
-    ```bash
-    adk deploy agent_engine insuraiq --staging_bucket YOUR_STAGING_GCS_BUCKET_URI
-    ```
+
+```bash
+adk deploy agent_engine insuraiq --staging_bucket YOUR_STAGING_GCS_BUCKET_URI
+```
