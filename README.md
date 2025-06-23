@@ -48,3 +48,10 @@ This repository consists of 4 parts.
 - UI
 
 #### Please read the individual READMEs for more details.
+
+#### Submitted as part of ADK Hackathon conducted by Google.
+
+[Hackathon Submission URL](https://devpost.com/software/insuraiq-your-virtual-health-insurance-agent) 
+
+### License
+This project is licensed under the terms of the GNU General Public License (GPL) version 3.
